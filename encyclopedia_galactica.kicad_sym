@@ -645,7 +645,7 @@
     (property "Footprint" "SHT42-AD1B-R2:DFN4_SHT41_SEN" (at 0 21.59 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (property "Datasheet" "SHT41-AD1B-R2" (at 0 24.13 0)
+    (property "Datasheet" "https://sensirion.com/media/documents/33FD6951/63E1087C/Datasheet_SHT4x_1.pdf" (at 0 24.13 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "ki_keywords" "SHT41-AD1B-R2" (at 0 0 0)
