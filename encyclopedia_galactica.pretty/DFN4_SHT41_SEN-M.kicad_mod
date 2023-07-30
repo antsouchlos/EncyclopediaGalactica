@@ -60,4 +60,9 @@
   (pad "2" smd rect (at -0.7969 0.40005) (size 0.806399 0.3056) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9e4ad55b-b6c0-4d91-b2a8-a14a162dd6fc))
   (pad "3" smd rect (at 0.7969 0.40005) (size 0.806399 0.3056) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 28f8b719-95b0-44f2-b250-6924f478564f))
   (pad "4" smd rect (at 0.7969 -0.40005) (size 0.806399 0.3056) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b9567d93-97e4-41d9-97b5-3d8218f3e22f))
+  (model "${KIPRJMOD}/encyclopedia_galactica/models/DFN4_SHT41_SEN.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
