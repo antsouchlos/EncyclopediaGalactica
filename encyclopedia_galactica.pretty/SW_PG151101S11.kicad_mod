@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at -12 1.5 180)
+		(at 0 -8 180)
 		(layer "F.SilkS")
 		(uuid "9a7f7544-24d3-4753-8ec6-458d4a61633b")
 		(effects
@@ -17,6 +17,7 @@
 	(property "Value" "SW_PG151101S11"
 		(at 0 -14.5 180)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "f047e597-e570-4da8-a65e-c39a251240d5")
 		(effects
 			(font
@@ -227,46 +228,6 @@
 		(uuid "a5218d81-ece2-4f83-ba70-285619e2f924")
 	)
 	(fp_line
-		(start -9.525 -9.525)
-		(end 9.525 -9.525)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "c3fedc77-2acd-4814-944b-ba33737fee87")
-	)
-	(fp_line
-		(start -9.525 9.525)
-		(end -9.525 -9.525)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "6c1f9d24-9196-433c-ac1a-8980ad3a78eb")
-	)
-	(fp_line
-		(start 9.525 -9.525)
-		(end 9.525 9.525)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "815426bf-ed73-4959-b6c3-7595e4d87d81")
-	)
-	(fp_line
-		(start 9.525 9.525)
-		(end -9.525 9.525)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "3731fa97-d8cf-4393-9235-f4b1b06c1db1")
-	)
-	(fp_line
 		(start -8.885 -7.005)
 		(end -8.885 -0.615)
 		(stroke
@@ -443,6 +404,7 @@
 	(fp_text user "${REFERENCE}"
 		(at -0.5 -12 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "7d2f853e-f80b-42d2-ad6f-7ab0109034a6")
 		(effects
 			(font
