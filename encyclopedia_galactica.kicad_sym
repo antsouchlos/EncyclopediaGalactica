@@ -1317,8 +1317,8 @@
 		)
 		(symbol "LPC55S69JBD64K_2_1"
 			(rectangle
-				(start -16.51 39.37)
-				(end 16.51 -39.37)
+				(start -16.51 38.1)
+				(end 16.51 -38.1)
 				(stroke
 					(width 0)
 					(type solid)
@@ -1329,7 +1329,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 2.54 180)
+				(at 24.13 7.62 180)
 				(length 7.62)
 				(name "PIO0_7"
 					(effects
@@ -1365,7 +1365,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -7.62 180)
+				(at 24.13 -2.54 180)
 				(length 7.62)
 				(name "PIO0_17"
 					(effects
@@ -1527,7 +1527,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 0 180)
+				(at 24.13 5.08 180)
 				(length 7.62)
 				(name "PIO0_8"
 					(effects
@@ -1545,7 +1545,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -27.94 180)
+				(at 24.13 -22.86 180)
 				(length 7.62)
 				(name "PIO0_27"
 					(effects
@@ -1725,7 +1725,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -25.4 180)
+				(at 24.13 -20.32 180)
 				(length 7.62)
 				(name "PIO0_26"
 					(effects
@@ -1743,7 +1743,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 7.62 180)
+				(at 24.13 -30.48 180)
 				(length 7.62)
 				(name "PIO1_2"
 					(effects
@@ -1761,7 +1761,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 5.08 180)
+				(at 24.13 -33.02 180)
 				(length 7.62)
 				(name "PIO1_3"
 					(effects
@@ -1779,7 +1779,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -20.32 180)
+				(at 24.13 -15.24 180)
 				(length 7.62)
 				(name "PIO0_24"
 					(effects
@@ -1797,7 +1797,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -2.54 180)
+				(at 24.13 2.54 180)
 				(length 7.62)
 				(name "PIO0_13"
 					(effects
@@ -1815,7 +1815,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -5.08 180)
+				(at 24.13 0 180)
 				(length 7.62)
 				(name "PIO0_14"
 					(effects
@@ -1833,7 +1833,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -12.7 180)
+				(at 24.13 -7.62 180)
 				(length 7.62)
 				(name "PIO0_20"
 					(effects
@@ -1851,7 +1851,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -15.24 180)
+				(at 24.13 -10.16 180)
 				(length 7.62)
 				(name "PIO0_21"
 					(effects
@@ -1869,7 +1869,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -17.78 180)
+				(at 24.13 -12.7 180)
 				(length 7.62)
 				(name "PIO0_22"
 					(effects
@@ -1887,7 +1887,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -22.86 180)
+				(at 24.13 -17.78 180)
 				(length 7.62)
 				(name "PIO0_25"
 					(effects
@@ -1995,7 +1995,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -10.16 180)
+				(at 24.13 -5.08 180)
 				(length 7.62)
 				(name "PIO0_19"
 					(effects
@@ -2013,7 +2013,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -30.48 180)
+				(at 24.13 -25.4 180)
 				(length 7.62)
 				(name "PIO0_29"
 					(effects
@@ -2031,7 +2031,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 -33.02 180)
+				(at 24.13 -27.94 180)
 				(length 7.62)
 				(name "PIO0_30"
 					(effects
@@ -2049,7 +2049,7 @@
 				)
 			)
 			(pin power_in line
-				(at -24.13 -7.62 0)
+				(at -24.13 -5.08 0)
 				(length 7.62)
 				(name "USB0_3V3"
 					(effects
@@ -2067,7 +2067,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -24.13 -12.7 0)
+				(at -24.13 -10.16 0)
 				(length 7.62)
 				(name "USB0_DP"
 					(effects
@@ -2085,7 +2085,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -24.13 -10.16 0)
+				(at -24.13 -7.62 0)
 				(length 7.62)
 				(name "USB0_DM"
 					(effects
@@ -2103,7 +2103,7 @@
 				)
 			)
 			(pin power_out line
-				(at -24.13 -15.24 0)
+				(at -24.13 -12.7 0)
 				(length 7.62)
 				(name "USB0_VSS"
 					(effects
@@ -7095,6 +7095,191 @@
 							(size 1.27 1.27)
 						)
 					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "XC6227C331PR-G"
+		(pin_names
+			(offset 0.254)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "U"
+			(at 0 8.636 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "XC6227C331PR-G"
+			(at 0 6.096 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "SOT-89-5_TOR"
+			(at 0 18.034 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Datasheet" "https://product.torexsemi.com/system/files/series/xc6227.pdf"
+			(at 1.27 15.748 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_locked" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "XC6227C331PR-G"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_fp_filters" "SOT-89-5_TOR SOT-89-5_TOR-M SOT-89-5_TOR-L"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "XC6227C331PR-G_0_1"
+			(pin unspecified line
+				(at -13.97 -1.27 0)
+				(length 7.62)
+				(name "CE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_out line
+				(at 0 -11.43 90)
+				(length 7.62)
+				(name "VSS"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -13.97 1.27 0)
+				(length 7.62)
+				(name "VIN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 13.97 1.27 180)
+				(length 7.62)
+				(name "VOUT"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "XC6227C331PR-G_1_1"
+			(rectangle
+				(start -6.35 3.81)
+				(end 6.35 -3.81)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
 				)
 			)
 		)
